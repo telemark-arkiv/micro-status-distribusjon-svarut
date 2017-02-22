@@ -1,7 +1,7 @@
 {
   "name": "micro-status-distribusjon-svarut",
   "description": "Shows status for SvarUT bot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "private": true,
   "author": {
